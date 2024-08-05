@@ -2,11 +2,12 @@
 //import reactLogo from './assets/react.svg'
 //import viteLogo from '/vite.svg'
 //import './App.css'
-
+import Chai from "./chai"
 function App() {
 
   return (
-    <h1> chai aur react with vite </h1>
+    // it returns only one element
+   <Chai/>
   )
 }
 
